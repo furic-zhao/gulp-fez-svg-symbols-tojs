@@ -75,6 +75,6 @@ export default (options) => {
     }
   }
   ready(appendSvg)
-})(window)
+})(window);
 `
 }
