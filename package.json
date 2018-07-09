@@ -1,6 +1,6 @@
 {
   "name": "gulp-fez-svg-symbols-tojs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "将svg-symbols转换为Js文件供页面直接引用。",
   "main": "lib/index.js",
   "scripts": {
